@@ -2,6 +2,9 @@
 
 Este programa de consola en C# simula un semáforo básico que alterna entre las luces roja, amarilla y verde. Cada luz se activa durante un tiempo específico: 3 segundos para la roja, 1 segundo para la amarilla y 3 segundos para la verde. El programa utiliza un bucle infinito para repetir este ciclo continuamente.
 
+
+![image](https://github.com/user-attachments/assets/b4538d71-f405-4afb-a4fa-c4ebedcd1dc4)
+
 ## LIbrerias 
 ```kotlin 
 using System;
